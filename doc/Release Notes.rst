@@ -34,8 +34,8 @@ The features that are released as part of this release are detailed below.
  
  - Different components that are part of CORTX.
  
- - For more information on CORTX, refer `Readme <https://github.com/Seagate/cortx/blob/main/README.md>`_
-and `Quick Start Guide <https://github.com/Seagate/cortx/blob/main/QUICK_START.md>`_.
+ - For more information on CORTX, refer `Readme <https://github.com/Seagate/cortx/blob/main/README.md>`_ and `Quick Start Guide <https://github.com/Seagate/cortx/blob/main/QUICK_START.md>`_.
+
 
 Known Issues
 ============
