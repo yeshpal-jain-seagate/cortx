@@ -5,14 +5,14 @@ Release Notes
 
 *Date of Release*: 24 / 09 / 2020
 
-*Product Owner*:
+*Product Owner*: << >>
 
-*********
-Copyright
-*********
 
-The standard copyright that is associated with Seagate must be inserted here.
+**************
+Requirements
+**************
 
+<<<...................>>>>
 
 *****************
 About the Release 
