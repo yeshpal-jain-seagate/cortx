@@ -1,9 +1,9 @@
-================================
-Release Notes - <<Product Name>>
-================================
-*Version*:
+==============
+Release Notes 
+==============
+*Version*: 1.0
 
-*Date of Release*:
+*Date of Release*: 24 / 09 / 2020
 
 *Product Owner*:
 
@@ -18,7 +18,7 @@ The standard copyright that is associated with Seagate must be inserted here.
 About the Release 
 *****************
 
-This section must provide the highlights related to the release.
+This is the first release of the open source platform from Seagate, CORTX.
 
 Requirements
 ============
@@ -30,7 +30,7 @@ New Features
 
 The features that are released as part of this release are detailed below.
 
-* Feature 1 (JIRA ID and Description)
+* CORTX
 * Feature 2 (JIRA ID and Description)
 
 Deprecated Features
