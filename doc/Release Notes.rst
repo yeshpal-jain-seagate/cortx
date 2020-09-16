@@ -31,23 +31,11 @@ New Features
 The features that are released as part of this release are detailed below.
 
 * CORTX
-* Feature 2 (JIRA ID and Description)
-
-Deprecated Features
-===================
-
-Features that have been deprecated in this release are detailed below. This information would not be added in the first release.
-
-* Feature 1 (JIRA ID and Description)
-* Feature 2 (JIRA ID and Description)
-
-Resolved Issues
-===============
-
-Details of bug fixes is mentioned below. This information would not be added in the first release.
-
-* Issue 1 (Bug ID and Description)
-* Issue 2 (Bug ID and Description)
+ 
+ - Different components that are part of CORTX.
+ 
+ - For more information on CORTX, refer `Readme <https://github.com/Seagate/cortx/blob/main/README.md>`_
+and `Quick Start Guide <https://github.com/Seagate/cortx/blob/main/QUICK_START.md>`_.
 
 Known Issues
 ============
