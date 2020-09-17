@@ -32,6 +32,11 @@ Starting Service
    ::
 
     salt '*' cmd.run systemctl status s3authserver
+    
+    
+.. container:: toggle
+
+   .. container:: heading    
 
 HAProxy
 --------
